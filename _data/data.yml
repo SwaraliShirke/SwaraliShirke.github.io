@@ -1,0 +1,229 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: left # position of the sidebar : left or right
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Swarali Shirke
+  tagline: Full Stack Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: swaralishirke22@gmail.com
+  phone: +44-7586-178030
+  #citizenship: Indian
+  #website: http://swaralishirke.com # Include the full website URL, including "http://" or "https://".
+  linkedin: SwaraliShirke
+  xing: 
+  github: SwaraliShirke
+  timezone: GMT+0:00
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky: # Specify your full Bluesky handle
+  twitter: #
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  #pdf: SwaraliShirke_Resume.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Professional
+    - idiom: Hindi
+      level: Professional
+    - idiom: Marathi
+      level: Native
+
+  interests:
+    title: Interests
+    info:
+    - item: Legacy Modernisation
+      link:
+    - item: Cloud-Native Architecture
+      link:
+    - item: Clean Code & Software Craftsmanship
+      link:
+    - item: Developer Productivity & DevOps Culture
+      link:
+    - item: Frontend UX
+      link:
+    - item: Tech Community & Mentoring
+      link:
+career-profile:
+  title: Career Profile
+  summary: |
+    Full Stack Developer with experience in C#, ASP .Net Core, .Net 8, MVC, Web API, LINQ, Dapper, Entity Framework, HTML, CSS, Javascript, Jquery, React JS, Next JS, and SQL Server. Azure Certified.
+    Proven ability to develop robust software applications, lead technical strategies, and manage end-to-end development processes using Agile methodologies. Demonstrated expertise in system migration, modernization, and backend automation to improve application performance and reliability.
+education:
+  title: Education
+  info:
+  - degree: Bachelors in Computer Engineering; First Class with Distinction
+    university: AISSMS College of Engineering, Pune, India.
+    time: Jul 2012 – Jun 2016
+    details: |
+  - degree: HSC 12th Class; First Class with Distinction
+    university: Abasaheb Garware College, Pune, India.
+    time: Jun 2011 – Jun 2012
+    details: |
+  - degree: SSC 10th Class; First Class with Distinction
+    university: Jijamata Girls High School, Pune, India.
+    time: Jun 2010 – Jun 2011
+    details: |
+
+experiences:
+  title: Experiences
+  info:
+  - role: Full Stack Developer
+    time: Apr 2025 – Till Date
+    company: OpusApeiro, Bristol, United Kingdom
+    details: |
+        - Spearheading the migration of a legacy web application to a modern technology stack, utilizing ASP.NET Core, C#, .NET 8, Web API, Azure, Next.js, HTML, JavaScript, CSS, and SQL Server.
+        - Developed and implemented end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipelines for both backend APIs and frontend applications using Azure DevOps. Automated build, test, and deployment processes to streamline code integration and reduce time-to-market. Emphasized version control, quality gates, and deployment validation to maintain code reliability across environments.
+        - Continued to provide critical support and maintenance for the existing legacy application, ensuring business continuity during the migration process. This includes bug fixing, performance tuning, and implementing minor feature updates, while gradually transitioning users to the new platform.
+  - role: Full Stack Developer
+    time: May 2024 – Oct 2024
+    company: ARMS Innovations Ltd., England, United Kingdom
+    details: |
+        - Working on migration of Legacy web application to the new world using latest technologies like ASP.Net Core, Web API, C#, .Net 8, Azure, Next JS, HTML, Javascript, CSS, Sql Server. Participating in the discovery sessions for requirement analysis and deciding technical strategies for new world development.
+        - Conduct PoC’s if necessary to test the feasibility of certain technologies. Design a high-level architecture that outlines the system components and their interactions.
+        - Creating reusable React components is an effective way to maintain consistency throughout an application.
+  - role: Technical Consultant
+    time: Jan 2023 – Dec 2023
+    company: ADP India Pvt. Ltd., Pune, India
+    details: |
+        - Carefully conducted thorough interviews to thoughtfully select talented individuals, forming a cohesive and skilled Agile team.
+        - As the lead of the Agile team, played a pivotal role in guiding team members through the technical and logical intricacies of project requirements. This included breaking down complex concepts into digestible chunks, providing clarity on technical specifications, and offering guidance on best practices and methodologies.
+        - Leading and overseeing the production deployment process, including the creation of deployment reviews and checklists to preemptively address any potential issues before deployment day, thereby ensuring a smooth and error-free production release.
+        - Worked on latest technologies like ASP.Net Core, Web API, C#, React JS, Azure, Docker, Jenkins, Sql Server.
+  - role: Senior Software Developer
+    time: Jan 2020 – Dec 2022
+    company: ADP India Pvt. Ltd., Pune, India
+    details: |
+        - Development and ongoing maintenance of robust software applications utilizing cutting-edge technologies such as ASP .Net Core, Web API, C#, SQL Server, and React JS. Achieved significant improvements in the efficiency and performance of web-based applications.
+        - Directed the technical strategy for multiple projects, implementing innovative solutions and automating backend processes. This initiative substantially reduced the workload associated with regression testing and manual application testing, leading to enhanced productivity and streamlined operations.
+  - role: Associate Software Engineer
+    time: Aug 2016 – Jan 2020
+    company: Fiserv India Pvt. Ltd., Pune, India
+    details: |
+        - Migrated legacy application with new UI and latest technologies such as MVC, Web API, C#, SQL Server, Jquery, HTML, CSS.
+        - Designed, developed and maintained AutoLOS project in the lending domain. Throughout the project lifecycle, collaborated closely with stakeholders to understand requirements, address challenges and deliver solutions that meet business objectives and exceed expectations.
+
+certifications:
+  title: Certifications
+  list:
+  - name: Microsoft Certified - Azure Fundamentals
+    start: 
+    end: 
+    organization: Microsoft
+    credentialid: 8BDD9A-D4F32F
+    credentialurl: 
+    credentialname: Microsoft
+    details: |
+      
+projects:
+  title: Projects
+  intro: >
+  assignments:
+  - title: C247 Platform (OpusApeiro, UK)
+    link: "#"
+    tagline: "Handling workforce screening, deployment, attendance, tracking and financial management solutions. Implemented features using clean code principles, SOLID design patterns."
+
+  - title: ARMS Uno (ARMS Innovations Ltd., UK)
+    link: "#"
+    tagline: "Migrating legacy application to new world using Azure platform, React JS, Material UI, Dot Net Core and SQL server."
+
+  - title: SecureAct 2.0 Updates (ADP India Pvt. Ltd., India)
+    link: "#"
+    tagline: "Updated existing data to align it with new requirements of the Secure Act 2.0 law for retirement services products."
+
+  - title: Compliance MOCT (ADP India Pvt. Ltd., India)
+    link: "#"
+    tagline: "Rebuilding compliance apps to modern platform infrastructure that will provide real time compliance testing, scalable data usage, enable an API network."
+
+  - title: E-statement - Quarterly Emails (ADP India Pvt. Ltd., India)
+    link: "#"
+    tagline: "Developed an automated batch process using .Net Core 3.0 and SQL Server for sending quarterly reminder emails to more than 4 billion participants."
+
+  - title: PES Re-Engineering (ADP India Pvt. Ltd., India)
+    link: "#"
+    tagline: "Migrated an old PES desktop-based VB.Net application to a web-based application using microservices architecture."
+
+  - title: AutoLOS - Automotive Loan Origination System (Fiserv India Pvt. Ltd., India)
+    link: "#"
+    tagline: "Migrated old LOS application to Ignite application with new UI and latest technology like asp .net core, web API and kendo controls."
+
+oss:
+
+publications:
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: C#
+    level: 95%
+  - name: ASP .Net Core
+    level: 95%
+  - name: .Net 8
+    level: 95%
+  - name: MVC
+    level: 95%
+  - name: Web API
+    level: 95%
+  - name: LINQ
+    level: 95%
+  - name: Dapper
+    level: 95%
+  - name: Entity Framework
+    level: 95%
+
+  - name: HTML
+    level: 90%
+  - name: CSS
+    level: 90%
+  - name: Javascript
+    level: 90%
+  - name: Jquery
+    level: 90%
+  - name: React JS
+    level: 90%
+  - name: Next JS
+    level: 90%
+
+  - name: SQL Server
+    level: 85%
+
+  - name: Visual Studio
+    level: 90%
+  - name: VS Code
+    level: 90%
+  - name: Postman
+    level: 90%
+  - name: Jira
+    level: 90%
+  - name: TFS
+    level: 90%
+  - name: Git
+    level: 90%
+  - name: Bitbucket
+    level: 90%
+
+  - name: Azure Certified
+    level: 80%
+  - name: Docker
+    level: 80%
+  - name: Jenkins
+    level: 80%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/swaralishirke/" target="_blank" rel="nofollow">Swarali Shirke</a>
